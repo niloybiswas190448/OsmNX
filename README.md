@@ -32,35 +32,6 @@ This repository provides a complete geospatial analysis pipeline to calculate **
 
 ---
 
-## 🗂️ Project Structure
-
-```
-
-kelowna-urban-indicators/
-│
-├── scripts/
-│   └── kewlona\_indicator.py        # Main processing script
-│
-├── notebooks/
-│   ├── osm\_network\_analysis.ipynb  # Interactive OSM + Indicator Notebook
-│   ├── od\_generation.ipynb         # OD pair generation & visualization
-│
-├── data/
-│   ├── shapefiles/                 # Kelowna grid & OD shapefiles
-│   ├── csv/                        # Cleaned OD matrices and merged data
-│
-├── results/
-│   ├── plots/                      # PNG/JPG of network graphs and regression plots
-│   └── outputs/                    # Output shapefiles and CSVs
-│
-├── figures/
-│   └── od\_map\_sample.png           # Preview image for README
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-
-````
 
 ---
 
