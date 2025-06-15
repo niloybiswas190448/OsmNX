@@ -39,7 +39,7 @@ This repository provides a complete geospatial analysis pipeline to calculate **
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/kelowna-urban-indicators.git
+git clone https://github.com/niloybiswas190448/OsmNX.git
 cd kelowna-urban-indicators
 ````
 
