@@ -147,7 +147,17 @@ model = GM_Lag(y.values, X_scaled, w=w)
 | A      | B           | 21.4     | 14.3      | 1.49         |
 
 ---
-
+📸 Sample Visualizations
+🗺️ 1. Road Network Graph with OSMnx
+<p align="center"> <img src="image.png" alt="Network Graph Kelowna" width="75%"> </p>
+🔄 2. OD Pairs with Folium Map
+<p align="center"> <img src="figures/od_map_sample.png" alt="OD Pair Map" width="75%"> </p>
+📊 3. Street Network Indicator Correlation Heatmap
+<p align="center"> <img src="figures/indicator_correlation_heatmap.png" alt="Heatmap of Indicators" width="70%"> </p>
+🧠 4. Regression Results (PT/Car Time vs Circuity, Node Density)
+<p align="center"> <img src="figures/regression_plot.png" alt="Regression Summary" width="70%"> </p>
+🌍 5. Accessibility Surface or GWR Coefficient Map
+<p align="center"> <img src="figures/gwr_map.png" alt="GWR Result Map" width="70%"> </p>
 ## 🧠 Future Additions
 
 * ✅ OD cost surface estimation
